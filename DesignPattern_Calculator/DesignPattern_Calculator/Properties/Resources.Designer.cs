@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DesignPattern_Calculator.Properties
+namespace OperationLibrary.Properties
 {
 
 

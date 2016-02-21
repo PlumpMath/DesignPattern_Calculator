@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DesignPattern_Calculator
+namespace OperationLibrary
 {
     public class Operation
     {
