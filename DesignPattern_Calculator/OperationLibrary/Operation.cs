@@ -98,8 +98,6 @@ namespace DesignPattern_Calculator
                 case "/":
                     oper = new OperationDiv();
                     break;
-                default:
-                    break;
             }
             return oper;
         }
